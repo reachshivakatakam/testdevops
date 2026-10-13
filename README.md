@@ -1,6 +1,5 @@
-<!-- This is the main README file for the testdevops repository. -->
-<!-- It acts as the repository landing page and helps users understand the project's purpose. -->
-<!-- The next line sets the main heading displayed at the top of the file. -->
+<!-- This line identifies the project/repository name as "testdevops". -->
 # testdevops
-<!-- This line gives a short description of the repository's purpose or context. -->
+
+<!-- This line provides a short description of the repository and explains that it is used for DevOps testing work. -->
 Devoops testing Repository
